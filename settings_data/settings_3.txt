@@ -1,11 +1,24 @@
-<setting type="str" key="height" value="'LARGE'" />
+<setting type="str" key="height" value="'SMALL'" />
 <setting type="str" key="partitions" value="''" />
 <setting type="int" key="num_duration" value="1" />
 <setting type="str" key="palette" value="'Blue'" />
 <setting type="bool" key="autoscale" value="False" />
-<setting type="bool" key="no_activity" value="True" />
+<setting type="bool" key="no_activity" value="False" />
 <setting type="bool" key="separate_activity" value="False" />
 <setting type="bool" key="graph_per_channel" value="False" />
 <setting type="str" key="graph_per_channel_probe_group" value="''" />
 <setting type="str" key="graph_per_channel_other_spec" value="''" />
 </settings>
+<probestatecolumns>
+</probestatecolumns>
+</component>
+</components>
+<reportfiles>
+</reportfiles>
+<schedules>
+
+</schedules>
+<recipients>
+
+</recipients>
+</pm:agamaPMReportConfiguration>
