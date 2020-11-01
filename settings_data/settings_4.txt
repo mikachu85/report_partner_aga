@@ -1,4 +1,3 @@
-<component component_type="1" horiz_pos="0" vert_pos="2" span="1" duration="1:00:00:00.00" resolution="01:00:00.00" description="sdfbreid1ar5" text="">
 <measurements>
 <measurement measurement_id="absolute_activity" scope="1" source_id="2">
 <sources>
