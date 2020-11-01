@@ -1,5 +1,8 @@
 import csv
-import ar_nodelist
+import functions
 
-#ar_nodelist.ar_nodes()
-ar_nodelist.csv_node_list()
+#functions.ar_nodes()
+#functions.csv_node_list()
+#functions.print_statement1()
+#functions.print_statement2()
+functions.print_settings()
