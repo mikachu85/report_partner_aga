@@ -1,7 +1,3 @@
-<measurements>
-<measurement measurement_id="absolute_activity" scope="1" source_id="2">
-<sources>
-<source key="probe_group" value="sdfbreid1ar5"/>
 </sources>
 </measurement>
 </measurements>

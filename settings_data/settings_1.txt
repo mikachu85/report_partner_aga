@@ -25,3 +25,42 @@
 </measurement>
 </measurements>
 <settings>
+
+<setting type="str" key="height" value="'SMALL'" />
+<setting type="str" key="partitions" value="''" />
+<setting type="int" key="num_duration" value="1" />
+<setting type="str" key="palette" value="'Blue'" />
+<setting type="bool" key="autoscale" value="False" />
+<setting type="bool" key="no_activity" value="True" />
+<setting type="bool" key="separate_activity" value="False" />
+<setting type="bool" key="graph_per_channel" value="False" />
+<setting type="str" key="graph_per_channel_probe_group" value="''" />
+<setting type="str" key="graph_per_channel_other_spec" value="''" />
+</settings>
+<probestatecolumns>
+</probestatecolumns>
+</component>
+<component component_type="1" horiz_pos="0" vert_pos="1" span="1" duration="1:00:00:00.00" resolution="01:00:00.00" description="Partner 1004 - Total" text="">
+<measurements>
+<measurement measurement_id="qoe_distribution_ok" scope="1" source_id="2">
+<sources>
+<source key="probe_group" value="1004"/>
+</sources>
+</measurement>
+<measurement measurement_id="qoe_distribution_minor" scope="1" source_id="2">
+<sources>
+<source key="probe_group" value="1004"/>
+</sources>
+</measurement>
+<measurement measurement_id="qoe_distribution_major" scope="1" source_id="2">
+<sources>
+<source key="probe_group" value="1004"/>
+</sources>
+</measurement>
+<measurement measurement_id="qoe_distribution_unavailable" scope="1" source_id="2">
+<sources>
+<source key="probe_group" value="1004"/>
+</sources>
+</measurement>
+</measurements>
+<settings>

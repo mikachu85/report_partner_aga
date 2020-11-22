@@ -12,27 +12,3 @@
 <probestatecolumns>
 </probestatecolumns>
 </component>
-<component component_type="1" horiz_pos="0" vert_pos="1" span="1" duration="1:00:00:00.00" resolution="01:00:00.00" description="Partner 1004 - Total" text="None">
-<measurements>
-<measurement measurement_id="qoe_distribution_ok" scope="1" source_id="2">
-<sources>
-<source key="probe_group" value="1004"/>
-</sources>
-</measurement>
-<measurement measurement_id="qoe_distribution_minor" scope="1" source_id="2">
-<sources>
-<source key="probe_group" value="1004"/>
-</sources>
-</measurement>
-<measurement measurement_id="qoe_distribution_major" scope="1" source_id="2">
-<sources>
-<source key="probe_group" value="1004"/>
-</sources>
-</measurement>
-<measurement measurement_id="qoe_distribution_unavailable" scope="1" source_id="2">
-<sources>
-<source key="probe_group" value="1004"/>
-</sources>
-</measurement>
-</measurements>
-<settings>
